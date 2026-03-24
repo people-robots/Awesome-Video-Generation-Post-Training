@@ -118,9 +118,10 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CI-VID | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/ymju-BAAI/CI-VID) · [Dataset](https://huggingface.co/datasets/BAAI/CI-VID) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PNData | 2025 | [Paper](https://arxiv.org/abs/2506.16119) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PairFS-4K | 2025 | [Paper](https://arxiv.org/abs/2505.18078) · [GitHub](https://github.com/yisuanwang/DanceTog) · [Website](https://dancetog.github.io) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MMVideo | 2025 | [Paper](https://arxiv.org/abs/2507.01938) · [GitHub](https://github.com/Tele-AI/CtrlVDiff) · [Website](https://tele-ai.github.io/CtrlVDiff) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DAVID-X | 2025 | [Paper](https://arxiv.org/abs/2506.14827) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Dprim | 2025 | [Paper](https://arxiv.org/abs/2508.20840) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) MMVideo | 2025 | [Paper](https://arxiv.org/abs/2507.01938) · [GitHub](https://github.com/Tele-AI/CtrlVDiff) · [Website](https://tele-ai.github.io/CtrlVDiff) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) GB3DV-25k | 2026 | [Paper](https://arxiv.org/abs/2603.16271) · [Website](https://vigor-geometry-reward.com/) · [Dataset](https://huggingface.co/datasets/Ethan2k04/GB3DV-25k)|
 
 ### Benchmarks
 
@@ -181,7 +182,10 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RISE-Video | 2026 | [Paper](https://arxiv.org/abs/2602.05986) · [GitHub](https://github.com/VisionXLab/RISE-Video) · [Dataset](https://huggingface.co/datasets/VisionXLab/RISE-Video) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RBench | 2026 | [Paper](https://arxiv.org/abs/2601.15282) · [GitHub](https://github.com/DAGroup-PKU/ReVidgen/) · [Website](https://dagroup-pku.github.io/ReVidgen.github.io/) · [Dataset](https://huggingface.co/datasets/DAGroup-PKU/RBench) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) VC-Bench | 2026 | [Paper](https://arxiv.org/abs/2601.19236) · [Website](https://anonymous.4open.science/r/VC-Bench-1B67/README.md) · [Dataset](https://huggingface.co/datasets/Kevinson-lzp/VC-Bench) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) CoW-Bench | 2026 | [Paper](https://arxiv.org/abs/2602.23152) · [GitHub](https://github.com/openraiser/awesome-world-model-evolution) · [Dataset](https://huggingface.co/datasets/OpenRaiser/CoW-Bench) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MTAVG-Bench | 2026 | [Paper](https://arxiv.org/abs/2602.00607) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MSVBench | 2026 | [Paper](https://arxiv.org/abs/2602.23969) |
+
 
 ### Conference Papers
 
@@ -345,6 +349,28 @@ If you find our paper or this resource helpful, please consider cite:
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model | 2026 | [Paper](https://arxiv.org/abs/2603.18524) · [GitHub](https://github.com/Ko-Lani/3DreamBooth) · [Website](https://ko-lani.github.io/3DreamBooth/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization | 2026 | [Paper](https://arxiv.org/abs/2603.17461) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion | 2026 | [Paper](https://arxiv.org/abs/2603.13405) · [GitHub](https://github.com/vivoCameraResearch/Anchor-Forcing) · [Website](https://vivocameraresearch.github.io/anchorforcing/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation | 2026 | [Paper](https://arxiv.org/abs/2603.09819)  |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints | 2026 | [Paper](https://arxiv.org/abs/2603.11755) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning | 2026 | [Paper](https://arxiv.org/abs/2603.12257) · [Website](https://dreamvideo-omni.github.io/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards | 2026 | [Paper](https://arxiv.org/abs/2603.17808) · [GitHub](https://github.com/RobbinW/EVA) · [Website](https://eva-project-page.github.io/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization | 2026 | [Paper](https://arxiv.org/abs/2603.00978) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance | 2026 | [Paper](https://arxiv.org/abs/2603.12146) · [GitHub](https://github.com/quanhaol/FlashMotion) · [Website](https://quanhaol.github.io/flashmotion-site/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation | 2026 | [Paper](https://arxiv.org/abs/2603.00159) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) GenHOI: Towards Object-Consistent Hand–Object Interaction with Temporally Balanced and Spatially Selective Object Injection | 2026 | [Paper](https://arxiv.org/abs/2603.06048) · [GitHub](https://github.com/gallenszl/GenHOI) · [Website](https://xuanhuang0.github.io/GenHOI/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions | 2026 | [Paper](https://arxiv.org/abs/2603.03646) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) LibraGen: Playing a Balance Game in Subject-Driven Video Generation | 2026 | [Paper](https://arxiv.org/abs/2603.13506) · [GitHub](https://github.com/Phantom-video/LibraGen) · [Website](https://phantom-video.github.io/LibraGen/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Making Video Models Adhere to User Intent with Minor Adjustments | 2026 | [Paper](https://arxiv.org/abs/2603.19672) · [GitHub](https://github.com/ubc-vision/MinorAdjustVideo) · [Website](https://ubc-vision.github.io/MinorAdjustVideo/docs/webpage/index.html) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MosaicMem: Hybrid Spatial Memory for Controllable Video World Models | 2026 | [Paper](https://arxiv.org/abs/2603.17117) · [Website](https://mosaicmem.github.io/mosaicmem/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics | 2026 | [Paper](https://arxiv.org/abs/2603.10408) · [GitHub](https://github.com/Tianshuo-Xu/Motion-Forcing) · [Website](https://tianshuo-xu.github.io/Motion-Forcing/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation | 2026 | [Paper](https://arxiv.org/abs/2603.13024) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation | 2026 | [Paper](https://arxiv.org/abs/2602.22745) · [GitHub](https://github.com/fengming001ntu/SpatialAlign) · [Website](https://fengming001ntu.github.io/SpatialAlign/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents | 2026 | [Paper](https://arxiv.org/abs/2603.08403) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation | 2026 | [Paper](https://arxiv.org/abs/2603.11421) · [GitHub](https://github.com/Songlin1998/ShotVerse) · [Website](https://shotverse.github.io/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment | 2026 | [Paper](https://arxiv.org/abs/2603.16271) · [Website](https://vigor-geometry-reward.com/)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer | 2026 | [Paper](https://arxiv.org/abs/2603.15478) · [GitHub](https://github.com/Lexie-YU/ViFeEdit)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories | 2026 | [Paper](https://www.arxiv.org/abs/2602.14941) · [GitHub](https://github.com/wz0919/AnchorWeave) · [Website](https://zunwang1.github.io/AnchorWeave) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication | 2026 | [Paper](https://www.arxiv.org/abs/2602.13837) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation | 2026 | [Paper](https://arxiv.org/abs/2602.13669v1) |
