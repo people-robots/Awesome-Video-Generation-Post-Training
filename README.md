@@ -370,6 +370,7 @@ If you find our paper or this resource helpful, please consider cite:
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Helios: Real Real-Time Long Video Generation Model | 2026 | [Paper](https://arxiv.org/abs/2603.04379) · [GitHub](https://github.com/PKU-YuanGroup/Helios) · [Website](https://pku-yuangroup.github.io/Helios-Page)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model | 2026 | [Paper](https://arxiv.org/abs/2603.18524) · [GitHub](https://github.com/Ko-Lani/3DreamBooth) · [Website](https://ko-lani.github.io/3DreamBooth/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization | 2026 | [Paper](https://arxiv.org/abs/2603.17461) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion | 2026 | [Paper](https://arxiv.org/abs/2603.13405) · [GitHub](https://github.com/vivoCameraResearch/Anchor-Forcing) · [Website](https://vivocameraresearch.github.io/anchorforcing/)|
