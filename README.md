@@ -355,6 +355,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition | 2024 | [Paper](https://arxiv.org/abs/2403.14148) · [Website](https://sihyun.me/CMD/)|
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction | 2024 | [Paper](https://arxiv.org/abs/2310.20700) · [GitHub](https://github.com/Vchitect/SEINE) · [Website](https://vchitect.github.io/SEINE-project/)|
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation | 2024 | [Paper](https://openreview.net/forum?id=K9sVJ17zvB) · [Website](https://jinxixiang.github.io/versvideo/) |
+| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Identity-Preserving Text-to-Video Generation by Frequency Decomposition | 2024 | [Paper](https://arxiv.org/abs/2411.17440) · [GitHub](https://github.com/PKU-YuanGroup/ConsisID) · [Website](https://pku-yuangroup.github.io/ConsisID/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) InstructVideo: Instructing Video Diffusion Models with Human Feedback | 2024 | [Paper](https://arxiv.org/abs/2312.12490) · [GitHub](https://github.com/ali-vilab/VGen/blob/main/doc/InstructVideo.md) · [Website](https://instructvideo.github.io/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) SimDA: Simple Diffusion Adapter for Efficient Video Generation | 2024 | [Paper](https://arxiv.org/abs/2308.09710) · [GitHub](https://github.com/ChenHsing/SimDA) · [Website](https://chenhsing.github.io/SimDA/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models | 2024 | [Paper](https://arxiv.org/abs/2401.09047) · [GitHub](https://github.com/AILab-CVC/VideoCrafter) · [Website](https://ailab-cvc.github.io/videocrafter2/)|
@@ -623,6 +624,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Discriminator-Free Direct Preference Optimization for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.08542v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2504.08344v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | 2025 | [Paper](https://arxiv.org/abs/2504.06672v1) · [GitHub](https://github.com/helia95/ragme)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators | 2024 | [Paper](https://arxiv.org/abs/2404.05014) · [GitHub](https://github.com/PKU-YuanGroup/MagicTime) · [Website](https://pku-yuangroup.github.io/MagicTime/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2305.10874) |
 
 
@@ -652,5 +654,4 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 ## ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CyL97/Awesome-Video-Generation-Post-Training&type=Date&cache=20260224)](https://www.star-history.com/#CyL97/Awesome-Video-Generation-Post-Training&Date)
-
 
