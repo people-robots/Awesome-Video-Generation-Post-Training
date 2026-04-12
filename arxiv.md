@@ -256,6 +256,7 @@
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Discriminator-Free Direct Preference Optimization for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.08542v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2504.08344v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | 2025 | [Paper](https://arxiv.org/abs/2504.06672v1) · [GitHub](https://github.com/helia95/ragme)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators | 2024 | [Paper](https://arxiv.org/abs/2404.05014) · [GitHub](https://github.com/PKU-YuanGroup/MagicTime) · [Website](https://pku-yuangroup.github.io/MagicTime/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2305.10874) |
 
 
