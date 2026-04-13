@@ -285,6 +285,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![IJCAI](https://img.shields.io/badge/IJCAI-royalblue) FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion model | 2025 | [Paper](https://arxiv.org/html/2502.19455v3)|
 | ![ICML](https://img.shields.io/badge/ICML-indigo) FrameBridge: Improving Image-to-Video Generation with Bridge Models | 2025 | [Paper](https://arxiv.org/abs/2410.15371) · [Website](https://framebridge-icml.github.io/)|
 | ![ICML](https://img.shields.io/badge/PMLR-gold) Diffusion Adversarial Post-Training for One-Step Video Generation  | 2025 | [Paper](https://arxiv.org/abs/2501.08316) · [Website](https://seaweed-apt.com/)|
+| ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Identity-Preserving Text-to-Video Generation by Frequency Decomposition | 2025 | [Paper](https://arxiv.org/abs/2411.17440) · [GitHub](https://github.com/PKU-YuanGroup/ConsisID) · [Website](https://pku-yuangroup.github.io/ConsisID/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) AKiRa: Augmentation Kit on Rays for Optical Video Generation | 2025 | [Paper](https://arxiv.org/abs/2412.14158) · [GitHub](https://github.com/Triocrossing/AKiRa) · [Website](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models | 2025 | [Paper](https://arxiv.org/abs/2503.08417) · [GitHub](https://github.com/kwanyun/AnyMoLe) · [Website](https://kwanyun.github.io/AnyMoLe_page/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think | 2025 | [Paper](https://arxiv.org/abs/2503.00948) · [GitHub](https://github.com/Chuge0335/EDG) |
@@ -623,6 +624,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Discriminator-Free Direct Preference Optimization for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.08542v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2504.08344v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | 2025 | [Paper](https://arxiv.org/abs/2504.06672v1) · [GitHub](https://github.com/helia95/ragme)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators | 2024 | [Paper](https://arxiv.org/abs/2404.05014) · [GitHub](https://github.com/PKU-YuanGroup/MagicTime) · [Website](https://pku-yuangroup.github.io/MagicTime/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2305.10874) |
 
 
@@ -652,5 +654,4 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 ## ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CyL97/Awesome-Video-Generation-Post-Training&type=Date&cache=20260224)](https://www.star-history.com/#CyL97/Awesome-Video-Generation-Post-Training&Date)
-
 

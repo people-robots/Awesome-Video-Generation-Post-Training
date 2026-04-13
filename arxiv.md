@@ -3,6 +3,7 @@
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) Helios: Real Real-Time Long Video Generation Model | 2026 | [Paper](https://arxiv.org/abs/2603.04379) · [GitHub](https://github.com/PKU-YuanGroup/Helios) · [Website](https://pku-yuangroup.github.io/Helios-Page)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model | 2026 | [Paper](https://arxiv.org/abs/2603.18524) · [GitHub](https://github.com/Ko-Lani/3DreamBooth) · [Website](https://ko-lani.github.io/3DreamBooth/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization | 2026 | [Paper](https://arxiv.org/abs/2603.17461) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion | 2026 | [Paper](https://arxiv.org/abs/2603.13405) · [GitHub](https://github.com/vivoCameraResearch/Anchor-Forcing) · [Website](https://vivocameraresearch.github.io/anchorforcing/)|
@@ -255,6 +256,7 @@
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Discriminator-Free Direct Preference Optimization for Video Diffusion | 2025 | [Paper](https://arxiv.org/abs/2504.08542v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model | 2025 | [Paper](https://arxiv.org/abs/2504.08344v1) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | 2025 | [Paper](https://arxiv.org/abs/2504.06672v1) · [GitHub](https://github.com/helia95/ragme)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators | 2024 | [Paper](https://arxiv.org/abs/2404.05014) · [GitHub](https://github.com/PKU-YuanGroup/MagicTime) · [Website](https://pku-yuangroup.github.io/MagicTime/)|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation | 2023 | [Paper](https://arxiv.org/abs/2305.10874) |
 
 
