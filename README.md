@@ -102,8 +102,6 @@ If you find our paper or this resource helpful, please consider cite:
 
 | **Dataset** | **Year** | **Links** |
 | --- | --- | :---: |
-| **Dataset** | **Year** | **Links** |
-| --- | --- | :---: |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) ChronoMagic-Pro | 2024 | [Paper](https://arxiv.org/abs/2406.18522) · [GitHub](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) · [Website](https://pku-yuangroup.github.io/ChronoMagic-Bench/) · [Dataset](https://huggingface.co/datasets/BestWishYsh/ChronoMagic-Pro) |
 | ![NeurIPS](https://img.shields.io/badge/NeurIPS-blue) SafeSora | 2024 | [Paper](https://arxiv.org/abs/2406.14477) · [GitHub](https://github.com/PKU-Alignment/safe-sora) · [Website](https://sites.google.com/view/safe-sora) · [Dataset](https://huggingface.co/datasets/PKU-Alignment/SafeSora) |
 | ![ICCV](https://img.shields.io/badge/ICCV-green) TIP-I2V | 2025 | [Paper](https://arxiv.org/abs/2411.04709) · [GitHub](https://github.com/WangWenhao0716/TIP-I2V) · [Website](https://tip-i2v.github.io/) · [Dataset](https://huggingface.co/datasets/WenhaoWang/TIP-I2V) |
