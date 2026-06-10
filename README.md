@@ -123,6 +123,7 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DAVID-X | 2025 | [Paper](https://arxiv.org/abs/2506.14827) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Dprim | 2025 | [Paper](https://arxiv.org/abs/2508.20840) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) GB3DV-25k | 2026 | [Paper](https://arxiv.org/abs/2603.16271) · [Website](https://vigor-geometry-reward.com/) · [Dataset](https://huggingface.co/datasets/Ethan2k04/GB3DV-25k)|
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MuSS | 2026 | [Paper](https://arxiv.org/abs/2604.23789) · [GitHub](https://github.com/zhang-haojie/MuSS) |
 
 ### Benchmarks
 
@@ -186,6 +187,16 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CoW-Bench | 2026 | [Paper](https://arxiv.org/abs/2602.23152) · [GitHub](https://github.com/openraiser/awesome-world-model-evolution) · [Dataset](https://huggingface.co/datasets/OpenRaiser/CoW-Bench) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MTAVG-Bench | 2026 | [Paper](https://arxiv.org/abs/2602.00607) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MSVBench | 2026 | [Paper](https://arxiv.org/abs/2602.23969) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) SafeGen-Bench | 2026 | [Paper](https://arxiv.org/abs/2606.01481) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) DirectorBench | 2026 | [Paper](https://arxiv.org/abs/2605.30090) · [GitHub](https://github.com/jiaminchen-1031/DirectorBench) · [Dataset](https://huggingface.co/datasets/Jiamin1031/DirectorBench) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) EvalVerse | 2026 | [Paper](https://arxiv.org/abs/2605.23271) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) EntityBench | 2026 | [Paper](https://arxiv.org/abs/2605.15199) · [GitHub](https://github.com/Catherine-R-He/EntityBench/) · [Website](https://catherine-r-he.github.io/EntityBench/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) MechVerse | 2026 | [Paper](https://arxiv.org/abs/2605.14843) · [Website](https://mechverse.pages.dev/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldReasonBench | 2026 | [Paper](https://arxiv.org/abs/2605.10434) · [GitHub](https://github.com/UniX-AI-Lab/WorldReasonBench/) · [Website](https://unix-ai-lab.github.io/WorldReasonBench/) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldJen | 2026 | [Paper](https://arxiv.org/abs/2605.03475) · [GitHub](https://github.com/moonmath-ai/WorldJen-benchmarking-subsystem) · [Website](https://moonmath.ai/worldjen/) · [Dataset](https://huggingface.co/datasets/ik6626/WorldJen-benchmarking-subsystem) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) BRITE | 2026 | [Paper](https://arxiv.org/abs/2605.00873) |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldMark | 2026 | [Paper](https://arxiv.org/abs/2604.21686) · [Website](https://alaya-studio.github.io/WorldMark/) |
+
 
 
 ### Conference Papers
@@ -372,32 +383,26 @@ If you find our paper or this resource helpful, please consider cite:
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions | 2026 | [Paper](https://arxiv.org/abs/2606.09150) · [Website](https://xin1u.github.io/UltraFlash/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) CULTURESCORE: Evaluating Cultural Faithfulness in Video Generation Models | 2026 | [Paper](https://arxiv.org/abs/2606.07311) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation | 2026 | [Paper](https://arxiv.org/abs/2606.05290) · [Website](https://aimagelab.github.io/cross-model-safety-representations/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control | 2026 | [Paper](https://arxiv.org/abs/2606.04775) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment | 2026 | [Paper](https://arxiv.org/abs/2606.04737) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation | 2026 | [Paper](https://arxiv.org/abs/2606.01481) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Real2SAM2Real: Generative 3D Caches as Complementary Context for Video Diffusion | 2026 | [Paper](https://arxiv.org/abs/2606.00299) · [Website](https://jiayi-wu-leo.github.io/real2sam2real) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models | 2026 | [Paper](https://arxiv.org/abs/2605.30263) · [GitHub](https://github.com/shengshu-ai/minWM) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation | 2026 | [Paper](https://arxiv.org/abs/2605.30090) · [GitHub](https://github.com/jiaminchen-1031/DirectorBench) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models | 2026 | [Paper](https://arxiv.org/abs/2605.25941) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DeltaCam: Differential Intrinsic Camera Modeling for Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.25266) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Geo-Align: Video Generation Alignment via Metric Geometry Reward | 2026 | [Paper](https://arxiv.org/abs/2605.23903) · [Website](https://lizizun.github.io/geo-align-page/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models | 2026 | [Paper](https://arxiv.org/abs/2605.23345) · [GitHub](https://github.com/z2tong/SCOPE) · [Website](https://z2tong.github.io/SCOPE/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.23271) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration | 2026 | [Paper](https://arxiv.org/abs/2605.22996) · [Website](https://mericadil.github.io/CoMoGen) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition | 2026 | [Paper](https://arxiv.org/abs/2605.19995) · [Website](https://um-lab.github.io/CogOmniControl/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Aero-World: Action-Conditioned Aerial Video Generation from Inertial Controls | 2026 | [Paper](https://arxiv.org/abs/2605.19728) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PhyWorld: Physics-Faithful World Model for Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.19242) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) GeoFlow: Enforcing Implicit Geometric Consistency in Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.18365) · [GitHub](https://github.com/geometryflow/GeoFlow) · [Website](https://geometryflow.github.io/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Video Models Can Reason with Verifiable Rewards | 2026 | [Paper](https://arxiv.org/abs/2605.15458) · [Website](https://darthzhu.github.io/VideoRLVR-page/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.15199) · [GitHub](https://github.com/Catherine-R-He/EntityBench/) · [Website](https://catherine-r-he.github.io/EntityBench/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RefDecoder: Enhancing Visual Generation with Conditional Video Decoding | 2026 | [Paper](https://arxiv.org/abs/2605.15196) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO | 2026 | [Paper](https://arxiv.org/abs/2605.15190) · [Website](https://yanzuo.lu/raven) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) DriveCtrl: Conditioned Sim-to-Real Driving Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.15116) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration | 2026 | [Paper](https://arxiv.org/abs/2605.15042) · [Website](https://everanimate.github.io/homepage/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer | 2026 | [Paper](https://arxiv.org/abs/2605.14894) · [Website](https://zheng222.github.io/SEDiT_project/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) MechVerse: Evaluating Physical Motion Consistency in Video Generation Models | 2026 | [Paper](https://arxiv.org/abs/2605.14843) · [Website](https://mechverse.pages.dev/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Delta Forcing: Trust Region Steering for Interactive Autoregressive Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.14382) · [Website](https://delta-forcing-website.vercel.app/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL | 2026 | [Paper](https://arxiv.org/abs/2605.14274) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.14269) · [Website](https://phy-motion.github.io/) |
@@ -405,24 +410,16 @@ If you find our paper or this resource helpful, please consider cite:
 | ![arXiv](https://img.shields.io/badge/arXiv-red) CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating | 2026 | [Paper](https://arxiv.org/abs/2605.11723) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) TIE: Time Interval Encoding for Video Generation over Events | 2026 | [Paper](https://arxiv.org/abs/2605.10543) · [GitHub](https://github.com/MatrixTeam-AI/TIE) · [Website](https://matrixteam-ai.github.io/pages/TIE) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Improving Human Image Animation via Semantic Representation Alignment | 2026 | [Paper](https://arxiv.org/abs/2605.10523) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors | 2026 | [Paper](https://arxiv.org/abs/2605.10434) · [GitHub](https://github.com/UniX-AI-Lab/WorldReasonBench/) · [Website](https://unix-ai-lab.github.io/WorldReasonBench/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) EduStory: A Unified Framework for Pedagogically-Consistent Multi-Shot STEM Instructional Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.09378) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.08712) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Alice v1: Distillation-Enhanced Video Generation Surpassing Closed-Source Models | 2026 | [Paper](https://arxiv.org/abs/2605.08115) · [GitHub](https://github.com/mirage-video) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers | 2026 | [Paper](https://arxiv.org/abs/2605.07503) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation | 2026 | [Paper](https://arxiv.org/abs/2605.03849) · [Website](https://stream-r1.github.io) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models | 2026 | [Paper](https://arxiv.org/abs/2605.03475) · [GitHub](https://github.com/moonmath-ai/WorldJen-benchmarking-subsystem) · [Website](https://moonmath.ai/worldjen/) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) BRITE: A Benchmark for Reliable and Interpretable T2V Evaluation on Implausible Scenarios | 2026 | [Paper](https://arxiv.org/abs/2605.00873) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) PhyCo: Learning Controllable Physical Priors for Generative Motion | 2026 | [Paper](https://arxiv.org/abs/2604.28169) · [Website](https://phyco-video.github.io/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) AesRM: Improving Video Aesthetics with Expert-Level Feedback | 2026 | [Paper](https://arxiv.org/abs/2604.28078) · [Website](https://yujinhanml.github.io/aesrm-projectpage) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) A Systematic Post-Train Framework for Video Generation | 2026 | [Paper](https://arxiv.org/abs/2604.25427) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) World-R1: Reinforcing 3D Constraints for Text-to-Video Generation | 2026 | [Paper](https://arxiv.org/abs/2604.24764) · [GitHub](https://github.com/microsoft/World-R1) · [Website](https://aka.ms/world-r1) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation | 2026 | [Paper](https://arxiv.org/abs/2604.23789) · [GitHub](https://github.com/zhang-haojie/MuSS) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) WorldMark: A Unified Benchmark Suite for Interactive Video World Models | 2026 | [Paper](https://arxiv.org/abs/2604.21686) · [Website](https://alaya-studio.github.io/WorldMark/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation | 2026 | [Paper](https://arxiv.org/abs/2604.19679) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Learning to Credit the Right Steps: Objective-aware Process Optimization for Visual Generation | 2026 | [Paper](https://arxiv.org/abs/2604.19234) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) How Far Are Video Models from True Multimodal Reasoning? | 2026 | [Paper](https://arxiv.org/abs/2604.19193) · [GitHub](https://github.com/Monncyann/CLVG-Bench) |
-| ![arXiv](https://img.shields.io/badge/arXiv-red) AnimationBench: Are Video Models Good at Character-Centric Animation? | 2026 | [Paper](https://arxiv.org/abs/2604.15299) · [Website](https://animationbench.github.io/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Not all tokens contribute equally to diffusion learning | 2026 | [Paper](https://arxiv.org/abs/2604.07026) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation | 2026 | [Paper](https://arxiv.org/abs/2604.05961) · [Website](https://taohuumd.github.io/projects/HumANDiff/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models | 2026 | [Paper](https://arxiv.org/abs/2604.04142) |
