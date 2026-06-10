@@ -57,6 +57,9 @@
 
 ## 🔥 News
 
+- **[2026.06.09]** Our survey paper has been accepted to **TMLR** 🚀.
+- **[2026.06.09]** Added papers accepted to **ICML 2026**.
+- **[2026.06.09]** Added papers accepted to **CVPR 2026**.
 - **[2026.03.23]** Added papers accepted to **ICLR 2026**.
 - **[2026.02.23]** The v1 survey is now published! We have also initialized the repository.
 
