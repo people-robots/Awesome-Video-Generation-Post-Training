@@ -10,12 +10,12 @@
 ![Last Update](https://img.shields.io/badge/Last%20Update-Jun%202026-brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/CyL97/Awesome-Video-Generation-Post-Training?style=social&cache=20260224)
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)]() 
-[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)]() -->
+[![arXiv](https://img.shields.io/badge/arXiv-2610.00812-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2610.00812)
+[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2610.00812)
 
 </div>
 
-> ## [**Video Generation Models: A Survey of Post-Training and Alignment**]()  
+> ## [**Video Generation Models: A Survey of Post-Training and Alignment**](https://arxiv.org/abs/2610.00812)
 > [Chaoyu Li](https://chaoyuli.com/)<sup>1,†,✉️</sup>,
 > [Xiaoyi Gu](https://alleria1809.github.io/)<sup>2,†</sup>,
 > [Yogesh Kulkarni](https://yogkul2000.github.io/)<sup>1</sup>,
