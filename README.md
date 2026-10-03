@@ -2,11 +2,10 @@
 
 # Awesome Video Generation Post Training
 
-🔥 A continuously updated repository of research on post-training and alignment for video generation.
+🔥🔥🔥 A continuously updated repository of research on post-training and alignment for video generation.
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PDF](https://img.shields.io/badge/PDF-GitHub-blue.svg)](https://github.com/CyL97/Awesome-Video-Generation-Post-Training/blob/main/paper/Video_Generation_Post_Training_Survey.pdf)
 ![Last Update](https://img.shields.io/badge/Last%20Update-Jun%202026-brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/CyL97/Awesome-Video-Generation-Post-Training?style=social&cache=20260224)
 
