@@ -412,6 +412,7 @@ If you find our paper or this resource helpful, please consider cite:
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![arXiv](https://img.shields.io/badge/arXiv-red) LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation | 2026 | [Paper](https://arxiv.org/abs/2609.38146) · [GitHub](https://github.com/jsxzs/LIFT) · [Website](https://jsxzs.github.io/LIFT) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions | 2026 | [Paper](https://arxiv.org/abs/2606.09150) · [Website](https://xin1u.github.io/UltraFlash/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation | 2026 | [Paper](https://arxiv.org/abs/2606.05290) · [Website](https://aimagelab.github.io/cross-model-safety-representations/) |
 | ![arXiv](https://img.shields.io/badge/arXiv-red) Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control | 2026 | [Paper](https://arxiv.org/abs/2606.04775) |
