@@ -4,6 +4,7 @@
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![SCIS](https://img.shields.io/badge/SCIS-gray) MoG: Motion-aware generative frame interpolation | 2026 | [Paper](https://link.springer.com/article/10.1007/s11432-025-4920-3) · [arXiv](https://arxiv.org/abs/2501.03699) · [GitHub](https://github.com/MCG-NJU/MoG-VFI) |
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) Neodragon: Mobile Video Generation using Diffusion Transformer | 2026 | [Paper](https://arxiv.org/abs/2511.06055v1) · [Website](https://qualcomm-ai-research.github.io/neodragon) |
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) The Quest for Generalizable Motion Generation: Data, Model, and Evaluation | 2026 | [Paper](https://arxiv.org/abs/2510.26794v1) · [GitHub](https://github.com/MotrixLab/ViMoGen)|
 | ![ICLR](https://img.shields.io/badge/ICLR-teal) MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models | 2026 | [Paper](https://arxiv.org/abs/2510.19022v1) |

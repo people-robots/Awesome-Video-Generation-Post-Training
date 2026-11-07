@@ -209,6 +209,7 @@ If you find our paper or this resource helpful, please consider cite:
 
 | **Title** | **Year** | **Links** |
 | --- | --- | :---: |
+| ![SCIS](https://img.shields.io/badge/SCIS-gray) MoG: Motion-aware generative frame interpolation | 2026 | [Paper](https://link.springer.com/article/10.1007/s11432-025-4920-3) · [arXiv](https://arxiv.org/abs/2501.03699) · [GitHub](https://github.com/MCG-NJU/MoG-VFI) |
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance | 2026 | [Paper](https://arxiv.org/abs/2603.12146) · [GitHub](https://github.com/quanhaol/FlashMotion) · [Website](https://quanhaol.github.io/flashmotion-site/)|
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) GenHOI: Towards Object-Consistent Hand–Object Interaction with Temporally Balanced and Spatially Selective Object Injection | 2026 | [Paper](https://arxiv.org/abs/2603.06048) · [GitHub](https://github.com/gallenszl/GenHOI) · [Website](https://xuanhuang0.github.io/GenHOI/) |
 | ![CVPR](https://img.shields.io/badge/CVPR-brightgreen) GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling | 2026 | [Paper](https://www.arxiv.org/abs/2602.05202) |
